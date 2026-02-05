@@ -1,1 +1,14 @@
-
+{
+  "name": "Local Messages",
+  "description": "Create local-only Discord messages for testing embeds and layouts. Only visible to you.",
+  "authors": [
+    {
+      "name": "YourName",
+      "id": "0"
+    }
+  ],
+  "main": "index.js",
+  "vendetta": {
+    "icon": "ic_message"
+  }
+}
